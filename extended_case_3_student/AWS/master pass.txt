@@ -1,0 +1,10 @@
+Master password for extendedcase-3-db 7EkX1BARA1KaPEw6phHX
+endpoint extendedcase-3-db.cxqxxdrtqk3d.us-east-2.rds.amazonaws.com
+
+
+psql -h extendedcase-3-db.cxqxxdrtqk3d.us-east-2.rds.amazonaws.com -U postgres
+psql -h extendedcase-3-db.cxqxxdrtqk3d.us-east-2.rds.amazonaws.com -U ec3_user -d adventuretime
+
+data base: adventuretime , user= ec3_user, password= 123
+
+gaboxza
