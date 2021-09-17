@@ -4,10 +4,42 @@ All the problems that were solved by me during the DS4A course are stored in thi
 
 ## Extended Cases:
 
-1. **How can we control the increasing number of accidents in New York?**, The pandas library is used and seaborn is used for the graphics to address the problem.
-2. **The adverse health effects of air pollution - are we making any progress?**, Data cleaning, feature engineering, and data visualization processes.
-3. **Finding our best-performing salespeople and products**, The Amazon cloud service is used and the problem is solved using SQL.
-4. **Generating useful features for further analysis on Amazon reviews**, NLP process 
-5. **How should I price auto insurance in the United States?**, Fitting a linear regression model, and improve this model
-6. **Does a job training program improve the earnings of disadvantaged workers?**, Clasification problem using multiple methods to approach the problem.
-7. **Strategies to prevent overfitting in neural networks**, First approach to neural networks and how to avoid overfitting
+### Extended case 1:
+- **Problem:** How can we control the increasing number of accidents in New York
+- **Techniques applied:** 
+  - Data wrangling
+  - Data visualization
+### Extended case 2:
+- **Problem:** The adverse health effects of air pollution - are we making any progress?
+- **Techniques applied to solve the problem:** 
+  - Data cleaning
+  - Feature engineering
+  - Data visualization
+### Extended case 3:
+- **Problem:** Finding our best-performing salespeople and products
+- **Techniques applied to solve the problem:** 
+  - Cloud services
+  - Postgresql
+### Extended case 4:
+- **Problem:** Generating useful features for further analysis on Amazon reviews
+- **Techniques applied to solve the problem:** 
+  - Natural lenguaje processing
+  - Data wrangling
+### Extended case 5:
+- **Problem:** How should I price auto insurance in the United States?
+- **Techniques applied to solve the problem:** 
+  - Linear Regression Model
+  - Data wrangling
+### Extended case 6:
+- **Problem:** Does a job training program improve the earnings of disadvantaged workers?
+- **Techniques applied to solve the problem:** 
+  - Logistic Regression Model
+  - Decision Tree Classifier
+  - Random Forest Classifier
+  - Data wrangling
+### Extended case 7:
+- **Problem:** Strategies to prevent overfitting in neural networks
+- **Techniques applied to solve the problem:** 
+  - Natural lenguaje processing
+  - Neuronal Networks
+  - Data wrangling
